@@ -2,6 +2,9 @@
 ## Introduction:
 ESP32-S3-DEVKIT is a line of low-cost development boards for ESP32S3 with the Esp32-devkitV1-compatible pinout. ESP32-S3-DEVKIT has more pins, the placement of pins shared with Esp32-devkitV1 is the same.
 Programming is performed via USB connector.
+![ESP32-S3-DEVKIT](pics/esp32-s3-devkit.jpg)
+![ESP32-S3-DEVKIT](pics/back.jpg)
+![ESP32-S3-DEVKIT](pics/boardcomparison.jpg)
 
 ## Features:
 
@@ -27,4 +30,3 @@ For example projects go to https://github.com/allexoK/esp32-s3-devkit-examples/
 
 ## Schematics
 ![ESP32-S3-DEVKIT schematics](schematics.png)
-# Esp32-S3-Devkit-Board-docs
