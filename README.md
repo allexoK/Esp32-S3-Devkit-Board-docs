@@ -17,7 +17,7 @@ Programming is performed via USB connector.
 
 ## Pinout and dimensions
 ![ESP32-S3-DEVKIT pinout](ESP32-S3-devKit_pinout_ver1.png)
-![Dimensions](PCB_PCB_esp32 s3 devkit_dimensions.pdf)
+![Dimensions](PCB_PCB_esp32 s3 devkit_dimensions.png)
 
 ## Programming options:
 Using vscode Platformio or Arduino IDE
@@ -26,5 +26,5 @@ Using vscode Platformio or Arduino IDE
 For example projects go to https://github.com/allexoK/esp32-s3-devkit-examples/
 
 ## Schematics
-![ESP32-S3-DEVKIT schematics](Schematic_esp32 s3 devkit_2023-03-12-1.pdf)
+![ESP32-S3-DEVKIT schematics](Schematic_esp32 s3 devkit_2023-03-12-1.png)
 # Esp32-S3-Devkit-Board-docs
